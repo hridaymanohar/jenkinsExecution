@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*****************<<<<<<<<<<<<<+++++WELCOME TO MAVEN+++++++>>>>>>>>>>>>>*****************]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-07-03T10:04:45 IST" name="BatchSuit2_Testng" finished-at="2026-07-03T10:06:51 IST" duration-ms="125924">
+    <groups>
+    </groups>
+    <test started-at="2026-07-03T10:04:45 IST" name="Test" finished-at="2026-07-03T10:06:51 IST" duration-ms="125924">
+      <class name="MavenDemo.youtubeTest">
+        <test-method signature="testYoutube()[pri:0, instance:MavenDemo.youtubeTest@7f1302d6]" started-at="2026-07-03T10:04:45 IST" name="testYoutube" finished-at="2026-07-03T10:06:51 IST" duration-ms="125887" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*****************<<<<<<<<<<<<<+++++WELCOME TO MAVEN+++++++>>>>>>>>>>>>>*****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testYoutube -->
+      </class> <!-- MavenDemo.youtubeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- BatchSuit2_Testng -->
+</testng-results>
