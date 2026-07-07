@@ -12,10 +12,6 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 		
 		Reporter.log("*****************<<<<<<<<<<<<<+++++WELCOME TO MAVEN+++++++>>>>>>>>>>>>>*****************",true);
 		
-		WebDriver driver = new ChromeDriver();
-		driver.manage().window().maximize();
-		 driver.get("https://www.google.com/");
-		Thread.sleep(3000);
 		
 	}
 
