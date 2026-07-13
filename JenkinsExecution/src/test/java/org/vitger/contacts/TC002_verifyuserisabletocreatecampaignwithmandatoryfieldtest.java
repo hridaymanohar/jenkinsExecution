@@ -13,6 +13,7 @@ public class TC002_verifyuserisabletocreatecampaignwithmandatoryfieldtest {
 		Reporter.log("*****************<<<<<<<<<<<<<+++++WELCOME TO MAVEN+++++++>>>>>>>>>>>>>*****************",true);
 		Reporter.log("hello",true);
 		Reporter.log("Good Morning",true);
+		Reporter.log("welcome to Qspider",true);
 	}
 
 }
